@@ -1,0 +1,10 @@
+<script type="text/x-handlebars" data-template-name="components/voice-control">
+    <button class="btn btn-primary" {{action 'toggle'}}>
+            <i {{bind-attr class=":fa :fa-lg enabled:fa-microphone:fa-microphone-slash"}}></i>
+            {{#if enabled}}
+                Please speak!
+            {{else}}
+                Click to enable voice control!
+            {{/if}}
+    </button>
+</script>
