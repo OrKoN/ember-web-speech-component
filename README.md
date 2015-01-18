@@ -1,7 +1,7 @@
 ember-web-speech-component
 ==========================
 
-[![Code Climate](https://codeclimate.com/github/emberjs/ember.js.svg)]
+[![Code Climate](https://codeclimate.com/github/emberjs/ember.js.svg)](http://js-for.ninja)
 
 A component that allows getting input from the user in an oral form
 
