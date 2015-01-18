@@ -9,6 +9,4 @@ TODO
 ====
 + make available as a package
 + check if browser supports the web speech API
-+
 
-[![Build Status](https://secure.travis-ci.org/emberjs/ember.js.svg?branch=master)](http://travis-ci.org/emberjs/ember.js)
