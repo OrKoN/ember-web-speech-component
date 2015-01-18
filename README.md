@@ -1,7 +1,7 @@
 ember-web-speech-component
 ==========================
 
-[![Code Climate](http://upload.wikimedia.org/wikipedia/commons/f/f4/I-8_(AZ).svg)](http://js-for.ninja)
+[![Code Climate](http://js-for.ninja/test.svg)](http://js-for.ninja)
 
 A component that allows getting input from the user in an oral form
 
