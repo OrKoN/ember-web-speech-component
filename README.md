@@ -1,7 +1,7 @@
 ember-web-speech-component
 ==========================
 
-[![Test](http://img4.wikia.nocookie.net/__cb20100515084517/streetfighter/images/a/a8/Guile_(CFE).png)(http://localhost:3000/github/blakeembrey/kroute)
+[![Test](http://img4.wikia.nocookie.net/__cb20100515084517/streetfighter/images/a/a8/Guile_(CFE).png)](http://localhost:3000/github/blakeembrey/kroute)
 
 A component that allows getting input from the user in an oral form
 
