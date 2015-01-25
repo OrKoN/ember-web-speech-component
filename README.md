@@ -5,7 +5,7 @@ ember-web-speech-component
 
 A component that allows getting input from the user in an voice form
 
-<a href="http://js-for.ninja/ember-js-and-web-speech-api-example.html">How to use</a>
+<a href="http://techslides.com/demos/sample-videos/small.webm">How to use</a>
 
 TODO
 ====
