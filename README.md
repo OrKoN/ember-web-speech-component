@@ -1,7 +1,7 @@
 ember-web-speech-component
 ==========================
 
-[![Test](http://js-for.ninja/img/test/drawing.svg)](http://google.com)
+[![Test](http://js-for.ninja/img/test/drawing.png)](http://google.com)
 
 A component that allows getting input from the user in an oral form
 
