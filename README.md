@@ -1,7 +1,7 @@
 ember-web-speech-component
 ==========================
 
-[![Test](http://js-for.ninja/img/test/giphy.gif)](http://google.com)
+[![Test](http://techslides.com/demos/sample-videos/small.webm)](http://google.com)
 
 A component that allows getting input from the user in an voice form
 
