@@ -10,5 +10,3 @@ TODO
 + make available as a package
 + check if browser supports the web speech API
 
-[![Open Ads](https://opensourceads.net/github/OrKoN/jspm-ember-playground.banner)](https://opensourceads.net/github/OrKoN/jspm-ember-playground)
-
