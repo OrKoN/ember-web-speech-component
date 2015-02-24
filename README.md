@@ -1,5 +1,4 @@
 [![Open Ads](https://opensourceads.net/github/OrKoN/jspm-ember-playground.banner)](https://opensourceads.net/github/OrKoN/jspm-ember-playground)
-
 ember-web-speech-component
 ==========================
 
